@@ -1,0 +1,7 @@
+langchain
+langchain_openai 
+chromadb
+langchain_community
+langchainhub
+langchain-ollama
+langchain-chroma
