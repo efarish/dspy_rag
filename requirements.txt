@@ -5,3 +5,5 @@ langchain_community
 langchainhub
 langchain-ollama
 langchain-chroma
+python-dotenv
+nltk

@@ -15,6 +15,10 @@ from langchain_openai import OpenAIEmbeddings
 from langchain.text_splitter import TokenTextSplitter
 from langchain.docstore.document import Document
 from nltk.tokenize import word_tokenize
+import nltk
+
+nltk.download('punkt')
+
 
 load_dotenv()
 
@@ -89,11 +93,11 @@ def create_vector_db() -> Chroma:
         logging.warning("Source directory doesn't exists. Create vector data store...")
         embeddings = OpenAIEmbeddings()
         texts = load_data()      
-        db = Chroma.from_documents(persist_directory=VECTOR_DB_DIR, documents=texts, embedding=embeddings)        
+        db = Chroma.from_documents(collection_name="Dune", persist_directory=VECTOR_DB_DIR, documents=texts, embedding=embeddings)        
         logging.info("Done.")
     else:
         logging.info("Data source exists. Loading vector data store.")
-        db = Chroma(persist_directory=VECTOR_DB_DIR,embedding_function=embeddings)
+        db = Chroma(collection_name="Dune", persist_directory=VECTOR_DB_DIR,embedding_function=embeddings)
 
     return db
 
