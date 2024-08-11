@@ -2,7 +2,7 @@ What planet do the Atreides occupy at the beginning of Dune?;Caladan
 What is Jessica’s relationship with Duke Leto?;She is his concubine
 Jessica is a member of which organization?;Bene Gesserit
 Who betrays Duke Leto?;Dr. Yueh
-What is Paul’s tribal name among the Fremen?;Usul
+What is Paul’s tribal name among the Fremen?;Usul or Muad'Dib
 What is the name of the emperor’s prison planet?;Salusa Secundus
 Which is the baron’s grandson?;Paul Atreides
 What is the name of the Fremen garment that conserves water?;Stillsuit
@@ -13,23 +13,21 @@ What is a muad’dib?;A type of desert mouse
 What is Thufir Hawat?;A Mentat
 What is the name of Paul’s son?;Leto
 What is the name of the spice drug?;Melange
-How is melange made?;It is secreted by young, larval-stage sandworms
+How is melange made?;by sandworms
 Who is Liet?;Dr. Kynes
 What is a sietch?;A Fremen cave
 Who is Chani’s father?;Dr. Kynes
-What do Fremen do with their dead?;Render them down for their water
+What do Fremen do with their dead?;Extract their water
 For most of the novel, who does Hawat believe betrayed the Atreides?;Jessica
 Which planet do the Atreides settle on after leaving Caladan?;Arrakis
 What is the last thing Paul must do before he is accepted as a full Fremen?;Ride a sandworm
 Which of the following is not one of the Great Houses of the Landsraad?;The Acheans
-Who are Acheans?; The Atreides trace their lineage all the way back to Agamemnon, the ruler of Mycenae and leader of the Achaean (Greek)
 Who is Tuek?;An Arrakeen smuggler
 How does Reverend Mother Mohaim test whether Paul is a human?;gom jabbar
 What does a Mentat use in their thinking process?;Logic
 Where does Paul meet Usul?;His dream
 Who is the Kwisatz Haderach?;Paul
-What does the Kwisatz Haderach bring?;Important change
-What did the baron convince the emperor to give?;Planet Arrakis for Caladan
+What did the baron convince the emperor to give?;Planet Arrakis
 Who betrays Duke Leto?;Dr. Yueh
 What is Kwisatz Haderach translated to?;shortening of the way
 Who wrote The Collected Sayings of Muad'Dib?;Princess Irulan
