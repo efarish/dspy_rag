@@ -1,6 +1,6 @@
 # Project: DSPy Optimization
 
-This project utilizes the [DSPy](https://github.com/stanfordnlp/dspy) framework to algorithmically optimize LLM prompts. DSPy is capable of optimizing LLM weights and prompt system instructions, but here it will only be used to test if a few-shot prompt can improve RAG requests. The framework facilitates the use of test datasets to evaluate different LLM programs.    
+This project utilizes the [DSPy](https://github.com/stanfordnlp/dspy)(Declarative Self-improving Language Programs) framework to algorithmically optimize LLM prompts. DSPy is capable of optimizing LLM weights and prompt system instructions, but here it will only be used to test if a few-shot prompt can improve RAG requests. The framework facilitates the use of test datasets to evaluate different LLM programs.    
 
 The dataset used for this experiment consists of 64 question and answer examples about the 1965 Frank Herbert book Dune.
 
