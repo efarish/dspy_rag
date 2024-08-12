@@ -6,6 +6,5 @@ The dataset used for this experiment consists of 64 question and answer examples
 
 Like other LLM frameworks, DSPy provides utilities that ease the development of LLM programs. DSPy provides pre-canned strategies for prompting and LLM program optimization. It also facilitates evaluating LLM programs using test datasets.
 
-In this experiment, the framework was used to provide evidence that RAG requests on the Dune corpus benefit from using few-shot prompting.
-
+In this experiment, the framework was used to provide evidence that RAG requests on the Dune corpus benefit from using few-shot prompting. Using a few-shot promot increased the accuracy of LLM RAG response by a margin of 11 percentage points.
 
