@@ -5,7 +5,7 @@
 {"question": "Who betrays Duke Leto?", "choices":"Stilgar\nDr. Yueh\nJessica\nDuncan Idaho", "truth": "B", "answer": "Dr. Yueh"}, 
 {"question": "What is Paul's tribal name among the Fremen?", "choices":"Stilgar\nChani\nUsul\nMaud'Dib", "truth": "C", "answer": "Usul"}, 
 {"question": "What is the name of the emperor's prison planet?", "choices":"Salusa Secundus\nCorrino\nArrakis\nCaladan", "truth": "A", "answer": "Salusa Secundus"}, 
-{"question": "Which is the baron' grandson?", "choices":"Rabban Harkonnen\nStilgar\nFeyd-Rautha Harkonnen\nPaul Atreides", "truth": "D", "answer": "Paul Atreides"}, 
+{"question": "Which is the baron's grandson?", "choices":"Rabban Harkonnen\nStilgar\nFeyd-Rautha Harkonnen\nPaul Atreides", "truth": "D", "answer": "Paul Atreides"}, 
 {"question": "What is the name of the Fremen garment that conserves water?", "choices":"Wellsuit\nBody shield\nStillsuit\nJubba cloak", "truth": "C", "answer": "Stillsuit"}, 
 {"question": "According to the Fremen, what is a maker?", "choices":"A lasgun\nA sandworm\nA flask of water\nSomeone who urinates", "truth": "B", "answer": "A sandworm"}, 
 {"question": "Who is the emperor' truthsayer?", "choices":"Count Fenring\nBaron Harkonnen\nCotton Mather\nThe Reverend Mother Mohiam", "truth": "D", "answer": "The Reverend Mother Mohiam"}, 
@@ -52,5 +52,15 @@
 {"question": "Who becomes Paul Atreides' love interest and later wife?", "choices":"Duke Leto\nDuncan Idaho\nJessica\nChani", "truth": "D", "answer": "Chani"}, 
 {"question": "What giant creatures inhabit the deserts of Arrakis?", "choices":"Sandworms\nWhales\nThe Fremen\nPaul", "truth": "A", "answer": "Sandworms"}, 
 {"question": "Who does Duncan Idaho train?", "choices":"Paul Atreides\nJessica\nDuke Leto\nDuncan Idaho", "truth": "A", "answer": "Paul Atreides"}, 
-{"question": "What is the ultimate goal of the Bene Gesserit breeding program?", "choices":"The control the houses\nTo produce the Kwisatz Haderach\nTo win gold medals\nTo rule the universe", "truth": "B", "answer": "To produce the Kwisatz Haderach"}
+{"question": "What is the ultimate goal of the Bene Gesserit breeding program?", "choices":"The control the houses\nTo produce the Kwisatz Haderach\nTo control the spice\nTo rule the universe", "truth": "B", "answer": "To produce the Kwisatz Haderach"},
+{"question": "Who is Usul's sister", "choices":"Jessica\nPaul\nAlia\nPrincess Irulan", "truth": "C", "answer": "Alia Atreides"},
+{"question": "Who is Jessica's father?", "choices":"Duke Leto\nDr. Yueh\nGurney Halleck\nVladimir", "truth": "D", "answer": "Baron Vladimir Harkonnen"},
+{"question": "How is Paul related to Feyd-Rautha?", "choices":"They are besties\nThey are second cousins\nThey are brothers\nThey aren't related", "truth": "B", "answer": "They are second cousins"},
+{"question": "Through who is Paul related to Feyd-Rautha?", "choices":"Alia\nThe Baron\nChani\nPrincess Irulan", "truth": "B", "answer": "The Baron"},
+{"question": "Who is Jessica's cousin?", "choices": "Alia\nThe Baron\nFeyd-Rautha\nPrincess Irulan", "truth": "C", "answer": "Feyd-Rautha Harkonnen"},
+{"question": "Who is Paul's mother's cousin?", "choices": "Feyd-Rautha\nThe Baron\nAlia\nPrincess Irulan", "truth": "A", "answer": "Feyd-Rautha Harkonnen"},
+{"question": "Who is the wife of the man who betrays Duke Leto?", "choices": "Wanna Marcus\nThe Baron\nJessica\nDr. Yueh", "truth": "A", "answer": "Wanna Marcus"},
+{"question": "Who is Alia's grandfather?", "choices": "Wanna Marcus\nThe Baron\nJessica\nDr. Yueh", "truth": "B", "answer": "The Baron"},
+{"question": "Who is Alia's second cousin's uncle?", "choices": "Wanna Marcus\nThe Baron\nFeyd-Rautha\nPaul", "truth": "B", "answer": "The Baron"},
+{"question": "Who is the son of the man Dr. Yueh betrays?", "choices": "Duke Leto\nThe Baron\nFeyd-Rautha\nPaul", "truth": "D", "answer": "Paul"}
 ]}
